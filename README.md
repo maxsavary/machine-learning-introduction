@@ -9,13 +9,13 @@ The objective is to introduce a background allowing to understand "how it works"
 
 This introduction is divided in three sections : 
 * Supervised Learning
-    * [Regression](https://max7336.github.io/ml-introduction-suplearn-reg.html)
-    * [Classification (SVM)](https://max7336.github.io/ml-introduction-suplearn-class.html)
+    * [Regression](https://maxsavary.github.io/ml-introduction-suplearn-reg.html)
+    * [Classification (SVM)](https://maxsavary.github.io/ml-introduction-suplearn-class.html)
 * Unsupervised Learning
-    * [KMeans](https://max7336.github.io/ml-introduction-unsuplearn.html)
+    * [KMeans](https://maxsavary.github.io/ml-introduction-unsuplearn.html)
 * Neural Network
-    * [Some Concept and Theory](https://max7336.github.io/ml-introduction-nn-sometheory.html)
-    * [Pytorch Examples](https://max7336.github.io/ml-introduction-nn-pytorch.html)
+    * [Some Concept and Theory](https://maxsavary.github.io/ml-introduction-nn-sometheory.html)
+    * [Pytorch Examples](https://maxsavary.github.io/ml-introduction-nn-pytorch.html)
 
 
 Mathematical concepts attached to ML practiced in Information Technology are centered on Optimization. Roughly it consists on minimizing an error function ***H*** representing the Model of the problem
